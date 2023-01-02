@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name= "MasterSuite">
+<suite-files> 
+<suite-file path="C:\Users\Shree\eclipse-workspace\mavenproject\sanitytest.xml">
+</suite-file>
+<suite-file path="C:\Users\Shree\eclipse-workspace\mavenproject\functionaltest.xml">
+</suite-file>
+
+</suite-files>
+
+</suite> <!-- Suite -->
